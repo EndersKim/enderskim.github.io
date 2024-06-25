@@ -1,0 +1,1 @@
+.component_home{width:100%;height:100%;display:flex;justify-content:center;align-items:center;min-height:calc(var(--vh) - 80px - 40px)}.component_home svg{height:100px;width:100px;fill:var(--main-color-alpha)}
