@@ -1,0 +1,1 @@
+import{_ as s,R as o,r as c,o as n,d as r,e as a,t as i,g as _}from"./index-b4c9ea4e.js";const p={components:{Register:o}},d={class:"account_section"},l={class:"section_title"};function g(e,m,u,f,$,h){const t=c("Register",!0);return n(),r("div",d,[a("h2",l,i(e.$text("account.register")),1),_(t)])}const x=s(p,[["render",g]]);export{x as default};
