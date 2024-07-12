@@ -1,0 +1,1 @@
+import{L as t}from"./LinkClass-0d745484.js";import{m as o,X as c,N as n,o as e,d as r,k as l}from"./index-1fc629ac.js";import"./Warning-f96db5f0.js";const _={class:"content"},f=o({__name:"class",setup(i){const a=c(),s=n(()=>a.params.id);return(m,u)=>(e(),r("div",_,[(e(),l(t,{class_id:s.value,key:s.value},null,8,["class_id"]))]))}});export{f as default};
