@@ -1,0 +1,1 @@
+import{o as s,d as o,e,t as n,g as _,L as a}from"./index-6f69462e.js";const c={class:"account_section_login"},i={class:"section_title"},l=e("div",{style:{height:"10px"}},null,-1),u={__name:"login",setup(r){return(t,d)=>(s(),o("div",c,[e("h2",i,n(t.$text("nav.account")),1),l,_(a)]))}};export{u as default};
