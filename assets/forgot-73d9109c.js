@@ -1,1 +1,0 @@
-import{_ as e,o as t,d as _,e as o}from"./index-6f69462e.js";const s={},c={class:"account_section_iforgot"},n=o("p",null,"暂不支持找回密码，该功能开发中，请等待后续更新。",-1),r=o("p",null,"如果您忘记了密码，请创建一个新的账户。",-1),a=o("p",null,"如果您确实需要找回原本账户，请使用新账户在留言板留言。",-1),l=[n,r,a];function d(i,f){return t(),_("div",c,l)}const p=e(s,[["render",d]]);export{p as default};

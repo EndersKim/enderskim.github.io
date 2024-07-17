@@ -1,1 +1,0 @@
-import{_ as a,r as n,o as e,d as r,g as c,w as _,k as o,ar as l,as as i}from"./index-6f69462e.js";const p={},d={class:"movies"};function m(u,f,v,x,k,w){const s=n("router-view");return e(),r("div",d,[c(s,null,{default:_(({Component:t})=>[(e(),o(i,null,[(e(),o(l(t)))],1024))]),_:1})])}const h=a(p,[["render",m]]);export{h as default};
