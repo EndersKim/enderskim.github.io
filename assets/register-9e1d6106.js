@@ -1,1 +1,0 @@
-import{o as s,d as c,e,t as o,g as _,R as a}from"./index-c121442e.js";const n={class:"account_section_register"},r={class:"section_title"},i=e("div",{style:{height:"20px"}},null,-1),p={__name:"register",setup(l){return(t,d)=>(s(),c("div",n,[e("h2",r,o(t.$text("account.create_account")),1),i,_(a)]))}};export{p as default};
