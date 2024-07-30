@@ -1,1 +1,0 @@
-.test_list{display:grid;gap:20px;grid-template-columns:repeat(auto-fill,minmax(200px,1fr))}.test_item{display:flex;align-items:center;justify-content:center}.two_image[data-v-769ff792]{position:relative}.box[data-v-769ff792]{width:200px;height:200px;position:absolute;display:flex}.box img[data-v-769ff792]{display:block;width:100%;height:100%;object-fit:cover;transition:1s linear}

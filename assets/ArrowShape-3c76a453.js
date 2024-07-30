@@ -1,2 +1,0 @@
-/* empty css                                                   */import{_ as o,o as e,d as s,e as t}from"./index-539a8d41.js";const c={},r={class:"arrow_icon",xmlns:"http://www.w3.org/2000/svg",viewBox:"0 0 48 48"},n=t("path",{d:`M24,37c-0.5,0-1-0.2-1.4-0.6l-20-20C2,15.8,1.8,15,2.2,14.2C2.5,13.5,3.2,13,4,13h40c0.8,0,1.5,0.5,1.8,1.2\r
-	c0.3,0.7,0.1,1.6-0.4,2.2l-20,20C25,36.8,24.5,37,24,37z`},null,-1),_=[n];function a(l,i){return e(),s("svg",r,_)}const p=o(c,[["render",a]]);export{p as A};
