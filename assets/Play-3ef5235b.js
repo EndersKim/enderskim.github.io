@@ -1,0 +1,2 @@
+import{_ as e,o as t,d as s,e as c}from"./index-b17261da.js";const o={},n={xmlns:"http://www.w3.org/2000/svg",viewBox:"0 0 48 48"},_=c("path",{d:`M11.3,45.1c1.1,0,2-0.3,3.3-1.1l27.3-15.8c2.1-1.2,3.2-2.4,3.2-4.2s-1.1-3-3.2-4.2L14.6,4c-1.3-0.7-2.2-1.1-3.3-1.1\r
+		c-2.2,0-4,1.7-4,4.4v33.3C7.4,43.4,9.1,45.1,11.3,45.1z`},null,-1),r=[_];function a(d,l){return t(),s("svg",n,r)}const h=e(o,[["render",a]]);export{h as P};

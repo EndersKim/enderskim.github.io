@@ -1,0 +1,1 @@
+import{_ as o}from"./AccountPlaceholder-b73a259b.js";import{_}from"./AccountMenu-1a5217d8.js";import{o as t,d as a,g as e,e as c}from"./index-b17261da.js";import"./Box-c950e811.js";const s={id:"account_home"},m={class:"account_menu_home"},h={__name:"home",setup(n){return(r,i)=>(t(),a("div",s,[e(o,{class:"account_placeholder_home"}),c("div",m,[e(_)])]))}};export{h as default};

@@ -1,0 +1,1 @@
+import{o as e,d as t,e as o,g as _,W as s}from"./index-b17261da.js";const c={class:"account_section_iforgot"},n={class:"iforgot_icon_box"},a=o("h3",null,"该功能开发中，请等待后续更新",-1),r=o("p",null,"如果您忘记了原本的密码，请创建一个新的账户使用",-1),i=o("p",null,"如果您确实需要找回原本账户，请使用新账户在留言板留言",-1),f={__name:"forgot",setup(l){return(d,u)=>(e(),t("div",c,[o("div",n,[_(s)]),a,r,i]))}};export{f as default};

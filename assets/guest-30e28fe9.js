@@ -1,0 +1,1 @@
+import{_ as e}from"./GuestInfo-3e087214.js";import{o as t,d as _,g as s}from"./index-b17261da.js";import"./CharacterCard-0e460992.js";import"./UserBusiness-1e7a0f3b.js";const o={class:"account_section_guest"},u={__name:"guest",setup(c){return(a,n)=>(t(),_("div",o,[s(e)]))}};export{u as default};
