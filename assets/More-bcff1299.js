@@ -1,1 +1,0 @@
-import{_ as e,o,d as t,e as c}from"./index-1cda587c.js";const s={},r={width:"48",height:"48",viewBox:"0 0 48 48",xmlns:"http://www.w3.org/2000/svg"},n=c("circle",{cx:"8",cy:"24",r:"4"},null,-1),_=c("circle",{cx:"24",cy:"24",r:"4"},null,-1),i=c("circle",{cx:"40",cy:"24",r:"4"},null,-1),l=[n,_,i];function a(d,h){return o(),t("svg",r,l)}const w=e(s,[["render",a]]);export{w as M};
